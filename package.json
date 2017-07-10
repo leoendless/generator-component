@@ -1,5 +1,5 @@
 {
-  "name": "@test/generator-component",
+  "name": "@leoendless/generator-component",
   "version": "0.1.0",
   "description": "generator for react component with storybook",
   "files": [
