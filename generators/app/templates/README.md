@@ -1,0 +1,3 @@
+# <%= prettyComponentName %> Component
+
+<%= description %>

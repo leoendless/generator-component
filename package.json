@@ -1,0 +1,15 @@
+{
+  "name": "@test/generator-component",
+  "version": "0.1.0",
+  "description": "generator for react component with storybook",
+  "files": [
+    "generators"
+  ],
+  "keyword": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "lodash.capitalize": "^4.2.1",
+    "yeoman-generator": "^1.0.0"
+  }
+}
